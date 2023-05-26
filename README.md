@@ -19,14 +19,10 @@ Python 3: https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe
 Once installed you can run the program with the following command
 
 ```
-python cna_demo.py
+"C:\Users\ajjoh\PycharmProjects\pythonProject\Boolean Expression.py"
 ```
 
-Add any additional ways to run the program below
 
-```
-python cna_demo.py test.txt
-```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+Thank You to Runestone Acadamy, Christine Sutton, PyCharm, and GitHub.
