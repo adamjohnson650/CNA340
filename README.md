@@ -9,7 +9,9 @@ These instructions will run this code on your local machine for demonstrating ho
 ### Prerequisites
 
 Boolean Expressions in Python requires Python 3 to run. The command below will install Python
+
 Python 3: https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe
+
 ```
 ```
 
